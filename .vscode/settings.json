@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f3cb35d4-cc32-4065-9202-a9469f713b36/microsoft.web/sites/subscriptions/f3cb35d4-cc32-4065-9202-a9469f713b36/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/wundercountdown",
+    "appService.deploySubpath": "."
+}
